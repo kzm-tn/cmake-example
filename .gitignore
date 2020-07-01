@@ -1,1 +1,3 @@
-build
+cmake-serial-example/build
+cmake-mpi-example/build
+cmake-hybrid-example/build
